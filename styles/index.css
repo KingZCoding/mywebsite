@@ -1,0 +1,26 @@
+body{
+    background-image: url("../img/Kingz.png");
+    background-position: center;
+    background-color: black;
+    margin: auto;
+}
+
+#links{
+    text-align: center;
+    background-color: black;
+    color: lightskyblue;
+    font-size: 24px;
+    height: auto;
+    width: 500px;
+    margin: auto;
+    border: solid 2px gold;
+}
+
+.head{
+    color: lightskyblue;
+    background-color: black;
+    font-size: 48px;
+    font-weight: bolder;
+    text-align: center;
+    margin: auto;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#head{
+    text-align: center;
+    font-size: 48px;
+    margin: auto;
+}
+
+#intro{
+    border: solid 2px white;
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+}
+
+#started{
+    text-align: center;
+    border: solid 2px rosybrown;
+    margin: auto;
+}
+
+

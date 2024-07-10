@@ -7,3 +7,5 @@ that I intend to continue to build and grow as I progress through theodinproject
 theodinproject and ultimately my personal website with my portolio of work, contact info, services, and anything else we may decide to add. Alright enough talking lets get working. i will add commit messages of what i do to each upload if anyone is interested in following along with my project! As well as edit messages in the README.md when important changes to code or the website come about! 
 
 First Edit: Adding pages, img, and styles dir. Intial set up of index.html/index.css and about-me.html/aboutme.css
+
+Second edit: Adding flex to webpage

@@ -16,7 +16,7 @@ body{
     border: solid 2px gold;
     background-color: black;
     display: flex;
-    padding: 5px;
+    padding: 8px;
     margin: auto;
     margin-top: 10px;
     justify-content: center;
